@@ -1,0 +1,6 @@
+ollama
+pypdf
+pillow
+pytesseract
+pymupdf
+pyinstaller

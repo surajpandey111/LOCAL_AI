@@ -1,0 +1,5 @@
+dist/
+build/
+*.exe
+*.json
+__pycache__/
